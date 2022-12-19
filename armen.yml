@@ -30,6 +30,6 @@
       
   - name: Copy files
     copy: 
-      src: /tmp/templatemo_530_mini_profile/
+      src: /tmp/viking/
       dest: /var/www/html
       remote_src: yes 
