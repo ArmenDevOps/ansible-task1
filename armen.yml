@@ -30,6 +30,6 @@
       
   - name: Copy files
     copy: 
-      src: /tmp/mical-html/
+      src: /tmp/coffee-shop-html-template/
       dest: /var/www/html
       remote_src: yes 
