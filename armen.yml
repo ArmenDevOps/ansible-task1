@@ -30,6 +30,6 @@
       
   - name: Copy files
     copy: 
-      src: /tmp/html/
+      src: /tmp/mical-html/
       dest: /var/www/html
       remote_src: yes 
