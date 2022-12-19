@@ -30,6 +30,6 @@
       
   - name: Copy files
     copy: 
-      src: /tmp/viking/
+      src: /tmp/html
       dest: /var/www/html
       remote_src: yes 
